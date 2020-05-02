@@ -3,7 +3,7 @@ title: Alfredo Quintana
 subtitle: Financial Data Scientist
 email: alfredo.quintana.14@gmail.com
 description: I turn financial datasets into valuable knowledge through mathematical models.
-baseurl: "/test" # the subpath of your site, e.g. /blog
+baseurl: "/PerosnalSite" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address:
