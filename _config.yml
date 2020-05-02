@@ -1,0 +1,36 @@
+# site settings
+title: Alfredo Quintana
+subtitle: Financial Data Scientist
+email: alfredo.quintana.14@gmail.com
+description: I turn financial datasets into valuable knowledge through mathematical models.
+baseurl: "/test" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address:
+city: Caracas
+state: 
+zip_code: 
+country: Venezuela
+phone: +58 414 901 8398
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/Qalfredo
+gitlab_url: https://gitlab.com/aqr314
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/alfredo-q-521060105/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/alfredoq14
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
